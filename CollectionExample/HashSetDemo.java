@@ -18,6 +18,7 @@ public class HashSetDemo
     System.out.println("---------------------");
     System.out.println("HashSet element are:");
     Iterator it = H1.iterator();
+    
     while(it.hasNext())
      {
       System.out.println(it.next());
